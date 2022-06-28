@@ -1,0 +1,16 @@
+img{
+    padding-top: 150px;
+    height: 400px;
+    width: 300px;
+}
+
+h2{
+    padding-top: 250px;
+}
+p{
+    padding: 20px;
+}
+button{
+    background-color: black;
+    color: whitesmoke;
+}
